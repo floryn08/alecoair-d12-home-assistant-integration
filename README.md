@@ -1,5 +1,5 @@
 # alecoair-d12-home-assistant-integration
-AlecoAir D12 Home Home Assistant Integration with [localtuya](https://github.com/rospogrigio/localtuya).
+AlecoAir D12 Home Dehumidifier, Home Assistant Integration with [localtuya](https://github.com/rospogrigio/localtuya).
 
 
 Functionality mappings:
@@ -15,3 +15,6 @@ Functionality mappings:
 12 - number - Timer (h) (min: 0; max: 24)  
 13 - number - Timer (min) (min: 0; max: 1440)  
 101 - switch - Internal dry (True: On; False: Off)  
+
+
+![AlecoAir D12 Home in Home Assistant](assets/screenshot.png)
