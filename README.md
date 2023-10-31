@@ -1,5 +1,6 @@
 # alecoair-d12-home-assistant-integration
-AlecoAir D12 Home Dehumidifier, Home Assistant Integration with [localtuya](https://github.com/rospogrigio/localtuya).
+AlecoAir D12 Home Dehumidifier, Home Assistant Integration with [localtuya](https://github.com/rospogrigio/localtuya).  
+Full properties json file can be found [here](properties.json).
 
 
 Data points mappings:
