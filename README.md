@@ -2,7 +2,7 @@
 AlecoAir D12 Home Dehumidifier, Home Assistant Integration with [localtuya](https://github.com/rospogrigio/localtuya).
 
 
-Functionality mappings:
+Data points mappings:
 
 1 - switch - Power On/Off (True: On; False: Off)  
 2 - select - Mode (Auto: 0; Laundy dry: 1)  
